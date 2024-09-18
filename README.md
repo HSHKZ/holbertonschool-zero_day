@@ -22,6 +22,7 @@
 ## Introduction
 
 (ENG) : This repository is part of the holbertonschool curriculum and is designed to help you understand the basics of version control with Git and GitHub. By the end of this project, you will be able to explain key concepts, work with Git from the command line, and collaborate on projects efficiently.
+
 (FRA) : Ce référentiel fait partie du programme Holbertonschool et est conçu pour vous aider à comprendre les bases du contrôle de version avec Git et GitHub. À la fin de ce projet, vous serez en mesure d'expliquer les concepts clés, de travailler avec Git depuis la ligne de commande et de collaborer efficacement sur des projets.
 
 ## Concepts
@@ -87,23 +88,25 @@
 
 ### General
 
-    All commands should be executed via the command line.
-    No GitHub web UI should be used, except for actions that can't be performed from the command line.
-    You must provide:
-        A README.md file at the root of the repository, describing the repository.
-        A README.md file in the git/ folder, describing the purpose of this sub-project.
+- All commands should be executed via the command line. / Toutes les commandes doivent être exécutées via la ligne de commande.
+- No GitHub web UI should be used, except for actions that can't be performed from the command line. / Aucune interface utilisateur Web GitHub ne doit être utilisée, à l'exception des actions qui ne peuvent pas être effectuées à partir de la ligne de commande.
+    
+- You must provide / Vous devez fournir:
 
-- Tools Needed / :
+1. A README.md file at the root of the repository, describing the repository. / Un fichier README.md à la racine du référentiel, décrivant le référentiel.
+2. A README.md file in the git/ folder, describing the purpose of this sub-project. / Un fichier README.md dans le dossier git/, décrivant le but de ce sous-projet.
 
-    Git: You should have Git installed on your system. Use the following command to install it on Ubuntu:
+- Tools Needed / Outils nécessaires :
 
-    bash
+1. Git: You should have Git installed on your system. Use the following command to install it on Ubuntu:
+1. Git : Git devrait être installé sur votre système. Utilisez la commande suivante pour l'installer sur Ubuntu:
 
-    sudo apt-get update
-    sudo apt-get upgrade
-    sudo apt-get install git
+- sudo apt-get update
+- sudo apt-get upgrade
+- sudo apt-get install git
 
-    Text Editor: You can use vim, nano, or any other text editor of your choice to write and edit files.
+Text Editor: You can use vim, nano, or any other text editor of your choice to write and edit files.
+Éditeur de texte : vous pouvez utiliser vim, nano ou tout autre éditeur de texte de votre choix pour écrire et éditer des fichiers.
 
 Installation
 
