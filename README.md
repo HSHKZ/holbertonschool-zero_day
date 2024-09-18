@@ -53,7 +53,7 @@
 - About READMEs / À propos des README
 - How to write a Git commit message / Comment écrire un message de commit Git
 
-# For advanced users / Pour les utilisateurs avancés:
+### For advanced users / Pour les utilisateurs avancés:
 
 - Learning branching / Apprendre le branchage
 - Effective pull requests / Demandes de tirage efficaces
