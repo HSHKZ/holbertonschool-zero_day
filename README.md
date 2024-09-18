@@ -22,15 +22,15 @@ Bienvenue dans le référentiel `holbertonschool-zero_day` ! Ce projet vous pr�
 
 ## Introduction
 
-This repository is part of the holbertonschool curriculum and is designed to help you understand the basics of version control with Git and GitHub. By the end of this project, you will be able to explain key concepts, work with Git from the command line, and collaborate on projects efficiently.
+(ENG) : This repository is part of the holbertonschool curriculum and is designed to help you understand the basics of version control with Git and GitHub. By the end of this project, you will be able to explain key concepts, work with Git from the command line, and collaborate on projects efficiently.
 
-Ce référentiel fait partie du programme Holbertonschool et est conçu pour vous aider à comprendre les bases du contrôle de version avec Git et GitHub. À la fin de ce projet, vous serez en mesure d'expliquer les concepts clés, de travailler avec Git depuis la ligne de commande et de collaborer efficacement sur des projets.
+(FRA) : Ce référentiel fait partie du programme Holbertonschool et est conçu pour vous aider à comprendre les bases du contrôle de version avec Git et GitHub. À la fin de ce projet, vous serez en mesure d'expliquer les concepts clés, de travailler avec Git depuis la ligne de commande et de collaborer efficacement sur des projets.
 
 ## Concepts
 
-For this project, the following key concepts will be explored:
+(ENG) : For this project, the following key concepts will be explored:
 
-Pour ce projet, les concepts clés suivants seront explorés:
+(FRA) : Pour ce projet, les concepts clés suivants seront explorés:
 
 - `Source Code Management (SCM)`: The process of tracking and managing changes to software code.
 - `Gestion du code source (GCS)`: Processus de suivi et de gestion des modifications apportées au code logiciel.
@@ -50,34 +50,61 @@ Pour ce projet, les concepts clés suivants seront explorés:
 ## Resources
 ## Ressources
 
-Before starting, you should review the following resources:
+(ENG) : Before starting, you should review the following resources:
 
-Avant de commencer, vous devez consulter les ressources suivantes:
+(FRA) : Avant de commencer, vous devez consulter les ressources suivantes:
 
-    Git - Resources to learn Git
-    About READMEs
-    How to write a Git commit message
-    For advanced users:
-        Learning branching
-        Effective pull requests
+- Git : Resources to learn Git - Git : Ressources pour apprendre Git
+- About READMEs - À propos des README
+- How to write a Git commit message - Comment écrire un message de commit Git
 
-Learning Objectives
+# For advanced users:
+# Pour les utilisateurs avancés:
 
-By the end of this project, you will be able to:
+- Learning branching - Apprendre le branchage
+- Effective pull requests - Demandes de tirage efficaces
 
-    Explain source code management and why it's important.
-    Define what Git and GitHub are and their differences.
-    Create and manage a repository.
-    Write a README.md file for your project.
-    Commit changes and write meaningful commit messages.
-    Push and pull code to/from GitHub.
-    Create and work with branches.
-    Merge branches and resolve conflicts.
-    Collaborate on a project with multiple contributors.
-    Understand which files should or should not appear in a repository.
+## Learning Objectives
+## Objectifs d'apprentissage
 
-Requirements
-General
+(ENG) : By the end of this project, you will be able to:
+
+(FRA) : À la fin de ce projet, vous serez capable de :
+
+- Explain source code management and why it's important.
+- Expliquez la gestion du code source et pourquoi c'est important.
+
+- Define what Git and GitHub are and their differences.
+- Définir ce que sont Git et GitHub et leurs différences.
+
+- Create and manage a repository.
+- Créer et gérer un référentiel.
+
+- Write a README.md file for your project.
+- Écrire un fichier README.md pour votre projet.
+
+- Commit changes and write meaningful commit messages.
+- Validez les modifications et rédigez des messages de validation significatifs.
+
+- Push and pull code to/from GitHub.
+- Poussez et extrayez du code vers/depuis GitHub.
+
+- Create and work with branches.
+- Créer et travailler avec des branches.
+
+- Merge branches and resolve conflicts.
+- Fusionner les branches et résoudre les conflits.
+
+- Collaborate on a project with multiple contributors.
+- Collaborer sur un projet avec plusieurs contributeurs.
+
+- Understand which files should or should not appear in a repository.
+- Comprendre quels fichiers doivent ou ne doivent pas apparaître dans un référentiel.
+
+## Requirements
+## Exigences
+
+# General
 
     All commands should be executed via the command line.
     No GitHub web UI should be used, except for actions that can't be performed from the command line.
