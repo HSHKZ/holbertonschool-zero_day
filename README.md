@@ -138,7 +138,8 @@ Text Editor: You can use vim, nano, or any other text editor of your choice to w
 ## Installation
 
 (ENG) : To get started with this project, clone the repository to your local machine:
-(ENG) : Pour démarrer ce projet, clonez le référentiel sur votre ordinateur local:
+
+(FRA) : Pour démarrer ce projet, clonez le référentiel sur votre ordinateur local:
 
 ```bash
 git clone https://github.com/username/holbertonschool-zero_day.git
@@ -154,11 +155,13 @@ cd holbertonschool-zero_day
 
 (FRA) : Voici les commandes de base que vous utiliserez pour interagir avec Git:
 
-1. Clone a repository / Cloner un dépôt:
+1. (ENG) : Clone a repository:
+1. (FRA) : Cloner un dépôt:
 
-git clone <repository_url> ex: git clone https://github.com/username/holbertonschool-zero_day.git
+git clone <repository_url> example : git clone https://github.com/username/holbertonschool-zero_day.git
 
-2. Create a new file / Créer un nouveau fichier:
+2. (ENG) : Create a new file:
+2. (FRA) : Créer un nouveau fichier:
 
 touch <filename>
 
@@ -166,25 +169,30 @@ touch <filename>
 
 git add <filename>
 
-4. Commit changes with a message / Valider les modifications avec un message:
+4. (ENG) : Commit changes with a message:
+4. (FRA) : Valider les modifications avec un message:
 
 git commit -m "Your commit message"
 
-5. Push changes to the remote repository / Transférer les modifications vers le référentiel distant:
+5. (ENG) : Push changes to the remote repository:
+5. (FRA) : Transférer les modifications vers le référentiel distant:
 
 git push origin <branch_name>
 
-6. Pull updates from the remote repository / Extraire les mises à jour du référentiel distant:
+6. (ENG) : Pull updates from the remote repository:
+6. (FRA) : Extraire les mises à jour du référentiel distant:
 
 git pull origin <branch_name>
 
 ## Advanced Git Features / Fonctionnalités avancées de Git
 
-1. Create a new branch / Créer une nouvelle branche:
+1. (ENG) : Create a new branch:
+1. (FRA) : Créer une nouvelle branche:
 
 git checkout -b <branch_name>
 
-2. Switch between branches / Basculer entre les branches:
+2. (ENG) : Switch between branches:
+2. (FRA) : Basculer entre les branches:
 
 git checkout <branch_name>
 
@@ -215,22 +223,22 @@ git branch -d <branch_name>
 
 (FRA) : Lorsque vous travaillez sur un projet avec plusieurs contributeurs:
 
-- Fork the repository: Create a personal copy of the project on GitHub.
-    
+- (ENG) : Fork the repository: Create a personal copy of the project on GitHub.
+- (FRA) : Forker le dépôt : Créez une copie personnelle du projet sur GitHub.    
 
-- Clone the forked repository to your local machine.
-    
+- (ENG) : Clone the forked repository to your local machine.
+- (FRA) : Clonez le référentiel forké sur votre machine locale.    
 
-- Make changes and commit them.
+- (ENG) : Make changes and commit them.
+- (FRA) : Apportez des modifications et validez-les.
 
+- Create a pull request (PR) to propose changes to the original repository.
 
-Create a pull request (PR) to propose changes to the original repository.
+- Follow these guidelines to ensure smooth collaboration:
 
-Follow these guidelines to ensure smooth collaboration:
-
-    Pull updates frequently to stay synced with the main repository.
-    Keep your commits small and focused on specific features or fixes.
-    Write detailed commit messages to explain your changes clearly.
+    1. Pull updates frequently to stay synced with the main repository.
+    2. Keep your commits small and focused on specific features or fixes.
+    3. Write detailed commit messages to explain your changes clearly.
 
 ## Good Practices / Bonnes pratiques
 
