@@ -31,20 +31,20 @@
 
 (FRA) : Pour ce projet, les concepts clés suivants seront explorés:
 
-- `Source Code Management (SCM)`: The process of tracking and managing changes to software code.
-- `Gestion du code source (GCS)`: Processus de suivi et de gestion des modifications apportées au code logiciel.
+- (ENG) : `Source Code Management (SCM)`: The process of tracking and managing changes to software code.
+- (FRA) : `Gestion du code source (GCS)`: Processus de suivi et de gestion des modifications apportées au code logiciel.
 
-- `Git`: A distributed version control system that helps developers track code changes and collaborate on projects.
-- `Git`: Un système de contrôle de version distribué qui aide les développeurs à suivre les modifications de code et à collaborer sur des projets.
+- (ENG) : `Git`: A distributed version control system that helps developers track code changes and collaborate on projects.
+- (FRA) : `Git`: Un système de contrôle de version distribué qui aide les développeurs à suivre les modifications de code et à collaborer sur des projets.
 
-- `GitHub`: A platform built on top of Git, used for hosting code, collaborating on repositories, and managing projects.
-- `GitHub`: Une plate-forme construite sur Git, utilisée pour héberger du code, collaborer sur des référentiels et gérer des projets.
+- (ENG) : `GitHub`: A platform built on top of Git, used for hosting code, collaborating on repositories, and managing projects.
+- (FRA) : `GitHub`: Une plate-forme construite sur Git, utilisée pour héberger du code, collaborer sur des référentiels et gérer des projets.
 
-- `Branches`: Used to work on different versions of a project in parallel.
-- `Branches`: Permet de travailler en parallèle sur différentes versions d'un projet.
+- (ENG) : `Branches`: Used to work on different versions of a project in parallel.
+- (FRA) : `Branches`: Permet de travailler en parallèle sur différentes versions d'un projet.
 
-- `Commits`: Snapshots of the repository's state at a particular time, containing changes made to the code.
-- `Commits`: Instantanés de l'état du référentiel à un moment donné, contenant les modifications apportées au code.
+- (ENG) : `Commits`: Snapshots of the repository's state at a particular time, containing changes made to the code.
+- (FRA) : `Commits`: Instantanés de l'état du référentiel à un moment donné, contenant les modifications apportées au code.
 
 ## Resources / Ressources
 
@@ -52,26 +52,33 @@
 
 (FRA) : Avant de commencer, vous devez consulter les ressources suivantes:
 
-- Git : Resources to learn Git / Git : Ressources pour apprendre Git
-- About READMEs / À propos des README
-- How to write a Git commit message / Comment écrire un message de commit Git
+- (ENG) : Git : Resources to learn Git
+- (FRA) : Git : Ressources pour apprendre Git
+- (ENG) : About READMEs
+- (FRA) : À propos des README
+- (ENG) : How to write a Git commit message
+- (FRA) : Comment écrire un message de commit Git
 
 ### For advanced users / Pour les utilisateurs avancés:
 
-- Learning branching / Apprendre le branchage
-- Effective pull requests / Demandes de tirage efficaces
+- (ENG) : Learning branching
+- (FRA) : Apprendre le branchage
+- (ENG) : Effective pull requests
+- (FRA) : Demandes de tirage efficaces
 
 ## Learning Objectives / Objectifs d'apprentissage
 
 (ENG) : By the end of this project, you will be able to:
 
-(FRA) : À la fin de ce projet, vous serez capable de :
+(FRA) : À la fin de ce projet, vous serez capable de:
 
-- Explain source code management and why it's important. / Expliquez la gestion du code source et pourquoi c'est important.
+- (ENG) : Explain source code management and why it's important.
+- (FRA) : Expliquez la gestion du code source et pourquoi c'est important.
 
-- Define what Git and GitHub are and their differences. / Définir ce que sont Git et GitHub et leurs différences.
+- (ENG) : Define what Git and GitHub are and their differences.
+- (FRA) : Définir ce que sont Git et GitHub et leurs différences.
 
-- Create and manage a repository. / Créer et gérer un référentiel.
+- (ENG) : Create and manage a repository. / Créer et gérer un référentiel.
 
 - Write a README.md file for your project. / Écrire un fichier README.md pour votre projet.
 
@@ -113,8 +120,8 @@ Text Editor: You can use vim, nano, or any other text editor of your choice to w
 
 ## Installation
 
-To get started with this project, clone the repository to your local machine:
-Pour démarrer ce projet, clonez le référentiel sur votre ordinateur local:
+(ENG) : To get started with this project, clone the repository to your local machine:
+(ENG) : Pour démarrer ce projet, clonez le référentiel sur votre ordinateur local:
 
 ```bash
 git clone https://github.com/username/holbertonschool-zero_day.git
@@ -126,8 +133,9 @@ cd holbertonschool-zero_day
 
 ## Basic Git Usage / Utilisation de base de Git
 
-The following are the basic commands you'll use to interact with Git:
-Voici les commandes de base que vous utiliserez pour interagir avec Git:
+(ENG) : The following are the basic commands you'll use to interact with Git:
+
+(FRA) : Voici les commandes de base que vous utiliserez pour interagir avec Git:
 
 1. Clone a repository / Cloner un dépôt:
 
@@ -163,23 +171,32 @@ git checkout -b <branch_name>
 
 git checkout <branch_name>
 
-3. Merge branches / Fusionner les branches:
+3. (ENG) : Merge branches:
+3. (FRA) : Fusionner les branches:
 
-First, switch to the branch you want to merge into (usually main), then run:
+(ENG) : First, switch to the branch you want to merge into (usually main), then run:
+
+(FRA) : Tout d’abord, passez à la branche dans laquelle vous souhaitez fusionner (généralement principale), puis exécutez:
 
 git merge <branch_name>
 
-4. Resolve merge conflicts: If there are conflicts during the merge, Git will prompt you to resolve them manually by editing the conflicting files.
+4. (ENG) : Resolve merge conflicts: If there are conflicts during the merge, Git will prompt you to resolve them manually by editing the conflicting files:
+4. (FRA) : Résoudre les conflits de fusion : s'il y a des conflits lors de la fusion, Git vous demandera de les résoudre manuellement en modifiant les fichiers en conflit.
 
-5. Delete a branch / Supprimer une branche:
+5. (ENG) : Delete a branch:
+5. (FRA) : Supprimer une branche:
 
-Once a branch is no longer needed, you can delete it using:
+(ENG) : Once a branch is no longer needed, you can delete it using:
+
+(FRA) : Une fois qu'une branche n'est plus nécessaire, vous pouvez la supprimer en utilisant:
 
 git branch -d <branch_name>
 
 ## Collaboration on Git / Collaboration sur Git
 
-When working on a project with multiple contributors:
+(ENG) : When working on a project with multiple contributors:
+
+(FRA) : Lorsque vous travaillez sur un projet avec plusieurs contributeurs:
 
     Fork the repository: Create a personal copy of the project on GitHub.
     Clone the forked repository to your local machine.
