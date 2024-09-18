@@ -215,10 +215,16 @@ git branch -d <branch_name>
 
 (FRA) : Lorsque vous travaillez sur un projet avec plusieurs contributeurs:
 
-    Fork the repository: Create a personal copy of the project on GitHub.
-    Clone the forked repository to your local machine.
-    Make changes and commit them.
-    Create a pull request (PR) to propose changes to the original repository.
+- Fork the repository: Create a personal copy of the project on GitHub.
+    
+
+- Clone the forked repository to your local machine.
+    
+
+- Make changes and commit them.
+
+
+Create a pull request (PR) to propose changes to the original repository.
 
 Follow these guidelines to ensure smooth collaboration:
 
@@ -226,17 +232,26 @@ Follow these guidelines to ensure smooth collaboration:
     Keep your commits small and focused on specific features or fixes.
     Write detailed commit messages to explain your changes clearly.
 
-Good Practices
+## Good Practices / Bonnes pratiques
 
-    Commit often: Make frequent commits to save your progress and track changes.
-    Write meaningful commit messages: Use the imperative mood and explain the “why” of the change, not just the “what”.
-    Keep your README.md up to date: This is your project's documentation, and it should reflect its current state.
-    Use .gitignore: Exclude files that shouldn't be tracked (e.g., system files, sensitive data, and build files).
+- (ENG) : `Commit often`: Make frequent commits to save your progress and track changes.
+- (FRA) : `Commitez souvent`: effectuez des validations fréquentes pour enregistrer votre progression et suivre les modifications.
+
+- (ENG) : `Write meaningful commit messages`: Use the imperative mood and explain the “why” of the change, not just the “what”.
+- (FRA) : `Écrivez des messages de validation significatifs`: utilisez le mode impératif et expliquez le « pourquoi » du changement, pas seulement le « quoi ».
+
+- (ENG) : `Keep your README.md up to date`: This is your project's documentation, and it should reflect its current state.
+- (FRA) : `Gardez votre README.md à jour`: il s'agit de la documentation de votre projet, et elle doit refléter son état actuel.
+
+- (ENG) : `Use .gitignore`: Exclude files that shouldn't be tracked (e.g., system files, sensitive data, and build files).
+- (FRA) : `Utiliser .gitignore`: excluez les fichiers qui ne doivent pas être suivis (par exemple, les fichiers système, les données sensibles et les fichiers de build).
 
 ## Conclusion
 
-By completing this project, you will have a solid understanding of source code management and will be able to use Git and GitHub effectively to manage your code and collaborate on projects.
+(ENG) : By completing this project, you will have a solid understanding of source code management and will be able to use Git and GitHub effectively to manage your code and collaborate on projects.
 
-## Authors
+(FRA) : En complétant ce projet, vous aurez une solide compréhension de la gestion du code source et serez en mesure d'utiliser Git et GitHub efficacement pour gérer votre code et collaborer sur des projets.
+
+## Authors / Auteurs
 
 - Lucas Niel - @Lucas Niel
