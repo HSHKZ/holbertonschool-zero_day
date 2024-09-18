@@ -63,6 +63,7 @@
 
 - (ENG) : Learning branching
 - (FRA) : Apprendre le branchage
+
 - (ENG) : Effective pull requests
 - (FRA) : Demandes de tirage efficaces
 
@@ -78,35 +79,51 @@
 - (ENG) : Define what Git and GitHub are and their differences.
 - (FRA) : Définir ce que sont Git et GitHub et leurs différences.
 
-- (ENG) : Create and manage a repository. / Créer et gérer un référentiel.
+- (ENG) : Create and manage a repository.
+- (FRA) : Créer et gérer un référentiel.
 
-- Write a README.md file for your project. / Écrire un fichier README.md pour votre projet.
+- (ENG) : Write a README.md file for your project.
+- (FRA) : Écrire un fichier README.md pour votre projet.
 
-- Commit changes and write meaningful commit messages. / Validez les modifications et rédigez des messages de validation significatifs.
+- (ENG) : Commit changes and write meaningful commit messages.
+- (FRA) : Validez les modifications et rédigez des messages de validation significatifs.
 
-- Push and pull code to/from GitHub. / Poussez et extrayez du code vers/depuis GitHub.
+- (ENG) : Push and pull code to/from GitHub.
+- (FRA) : Poussez et extrayez du code vers/depuis GitHub.
 
-- Create and work with branches. / Créer et travailler avec des branches.
+- (ENG) : Create and work with branches.
+- (FRA) : Créer et travailler avec des branches.
 
-- Merge branches and resolve conflicts. / Fusionner les branches et résoudre les conflits.
+- (ENG) : Merge branches and resolve conflicts.
+- (FRA) : Fusionner les branches et résoudre les conflits.
 
-- Collaborate on a project with multiple contributors. / Collaborer sur un projet avec plusieurs contributeurs.
+- (ENG) : Collaborate on a project with multiple contributors.
+- (FRA) : Collaborer sur un projet avec plusieurs contributeurs.
 
-- Understand which files should or should not appear in a repository. / Comprendre quels fichiers doivent ou ne doivent pas apparaître dans un référentiel.
+- (ENG) : Understand which files should or should not appear in a repository.
+- (FRA) : Comprendre quels fichiers doivent ou ne doivent pas apparaître dans un référentiel.
 
 ## Requirements / Exigences
 
 ### General
 
-- All commands should be executed via the command line. / Toutes les commandes doivent être exécutées via la ligne de commande.
-- No GitHub web UI should be used, except for actions that can't be performed from the command line. / Aucune interface utilisateur Web GitHub ne doit être utilisée, à l'exception des actions qui ne peuvent pas être effectuées à partir de la ligne de commande.
+- (ENG) : All commands should be executed via the command line.
+- (FRA) : Toutes les commandes doivent être exécutées via la ligne de commande.
+
+- (ENG) : No GitHub web UI should be used, except for actions that can't be performed from the command line.
+- (FRA) : Aucune interface utilisateur Web GitHub ne doit être utilisée, à l'exception des actions qui ne peuvent pas être effectuées à partir de la ligne de commande.
     
-- You must provide / Vous devez fournir:
+- (ENG) : You must provide
+- (FRA) : Vous devez fournir:
 
-1. A README.md file at the root of the repository, describing the repository. / Un fichier README.md à la racine du référentiel, décrivant le référentiel.
-2. A README.md file in the git/ folder, describing the purpose of this sub-project. / Un fichier README.md dans le dossier git/, décrivant le but de ce sous-projet.
+1. (ENG) : A README.md file at the root of the repository, describing the repository.
+1. (FRA) : Un fichier README.md à la racine du référentiel, décrivant le référentiel.
 
-- Tools Needed / Outils nécessaires:
+2. (ENG) : A README.md file in the git/ folder, describing the purpose of this sub-project.
+2. (FRA) : Un fichier README.md dans le dossier git/, décrivant le but de ce sous-projet.
+
+- (ENG) : Tools Needed: 
+- (FRA) : Outils nécessaires:
 
 1. Git: You should have Git installed on your system. Use the following command to install it on Ubuntu:
 1. Git : Git devrait être installé sur votre système. Utilisez la commande suivante pour l'installer sur Ubuntu:
