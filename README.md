@@ -119,51 +119,51 @@ Pour démarrer ce projet, clonez le référentiel sur votre ordinateur local:
 ```bash
 git clone https://github.com/username/holbertonschool-zero_day.git
 
-Once cloned, navigate to the project directory:
+Once cloned, navigate to the project directory / Une fois cloné, accédez au répertoire du projet:
 
 cd holbertonschool-zero_day
 ```
 
-## Basic Git Usage
+## Basic Git Usage / Utilisation de base de Git
 
 The following are the basic commands you'll use to interact with Git:
 Voici les commandes de base que vous utiliserez pour interagir avec Git:
 
-1. Clone a repository:
+1. Clone a repository / Cloner un dépôt:
 
 git clone <repository_url> ex: git clone https://github.com/username/holbertonschool-zero_day.git
 
-2. Create a new file:
+2. Create a new file / Créer un nouveau fichier:
 
 touch <filename>
 
-3. Add the file to the staging area:
+3. Add the file to the staging area / Ajouter le fichier à la zone de transit:
 
 git add <filename>
 
-4. Commit changes with a message:
+4. Commit changes with a message / Valider les modifications avec un message:
 
 git commit -m "Your commit message"
 
-5. Push changes to the remote repository:
+5. Push changes to the remote repository / Transférer les modifications vers le référentiel distant:
 
 git push origin <branch_name>
 
-6. Pull updates from the remote repository:
+6. Pull updates from the remote repository / Extraire les mises à jour du référentiel distant:
 
 git pull origin <branch_name>
 
-## Advanced Git Features
+## Advanced Git Features / Fonctionnalités avancées de Git
 
-1. Create a new branch:
+1. Create a new branch / Créer une nouvelle branche:
 
 git checkout -b <branch_name>
 
-2. Switch between branches:
+2. Switch between branches / Basculer entre les branches:
 
 git checkout <branch_name>
 
-3. Merge branches:
+3. Merge branches / Fusionner les branches:
 
 First, switch to the branch you want to merge into (usually main), then run:
 
@@ -171,13 +171,13 @@ git merge <branch_name>
 
 4. Resolve merge conflicts: If there are conflicts during the merge, Git will prompt you to resolve them manually by editing the conflicting files.
 
-5. Delete a branch:
+5. Delete a branch / Supprimer une branche:
 
 Once a branch is no longer needed, you can delete it using:
 
 git branch -d <branch_name>
 
-## Collaboration on Git
+## Collaboration on Git / Collaboration sur Git
 
 When working on a project with multiple contributors:
 
