@@ -28,6 +28,7 @@
 ## Concepts
 
 (ENG) : For this project, the following key concepts will be explored:
+
 (FRA) : Pour ce projet, les concepts clés suivants seront explorés:
 
 - `Source Code Management (SCM)`: The process of tracking and managing changes to software code.
@@ -48,6 +49,7 @@
 ## Resources / Ressources
 
 (ENG) : Before starting, you should review the following resources:
+
 (FRA) : Avant de commencer, vous devez consulter les ressources suivantes:
 
 - Git : Resources to learn Git / Git : Ressources pour apprendre Git
@@ -62,6 +64,7 @@
 ## Learning Objectives / Objectifs d'apprentissage
 
 (ENG) : By the end of this project, you will be able to:
+
 (FRA) : À la fin de ce projet, vous serez capable de :
 
 - Explain source code management and why it's important. / Expliquez la gestion du code source et pourquoi c'est important.
@@ -96,7 +99,7 @@
 1. A README.md file at the root of the repository, describing the repository. / Un fichier README.md à la racine du référentiel, décrivant le référentiel.
 2. A README.md file in the git/ folder, describing the purpose of this sub-project. / Un fichier README.md dans le dossier git/, décrivant le but de ce sous-projet.
 
-- Tools Needed / Outils nécessaires :
+- Tools Needed / Outils nécessaires:
 
 1. Git: You should have Git installed on your system. Use the following command to install it on Ubuntu:
 1. Git : Git devrait être installé sur votre système. Utilisez la commande suivante pour l'installer sur Ubuntu:
@@ -108,93 +111,73 @@
 Text Editor: You can use vim, nano, or any other text editor of your choice to write and edit files.
 Éditeur de texte : vous pouvez utiliser vim, nano ou tout autre éditeur de texte de votre choix pour écrire et éditer des fichiers.
 
-Installation
+## Installation
 
 To get started with this project, clone the repository to your local machine:
+Pour démarrer ce projet, clonez le référentiel sur votre ordinateur local:
 
-bash
-
+```bash
 git clone https://github.com/username/holbertonschool-zero_day.git
 
 Once cloned, navigate to the project directory:
 
-bash
-
 cd holbertonschool-zero_day
+```
 
-Basic Git Usage
+## Basic Git Usage
 
 The following are the basic commands you'll use to interact with Git:
+Voici les commandes de base que vous utiliserez pour interagir avec Git:
 
-    Clone a repository:
+1. Clone a repository:
 
-    bash
+git clone <repository_url> ex: git clone https://github.com/username/holbertonschool-zero_day.git
 
-git clone <repository_url>
-
-Create a new file:
-
-bash
+2. Create a new file:
 
 touch <filename>
 
-Add the file to the staging area:
-
-bash
+3. Add the file to the staging area:
 
 git add <filename>
 
-Commit changes with a message:
-
-bash
+4. Commit changes with a message:
 
 git commit -m "Your commit message"
 
-Push changes to the remote repository:
-
-bash
+5. Push changes to the remote repository:
 
 git push origin <branch_name>
 
-Pull updates from the remote repository:
+6. Pull updates from the remote repository:
 
-bash
+git pull origin <branch_name>
 
-    git pull origin <branch_name>
+## Advanced Git Features
 
-Advanced Git Features
-
-    Create a new branch:
-
-    bash
+1. Create a new branch:
 
 git checkout -b <branch_name>
 
-Switch between branches:
-
-bash
+2. Switch between branches:
 
 git checkout <branch_name>
 
-Merge branches:
+3. Merge branches:
 
 First, switch to the branch you want to merge into (usually main), then run:
 
-bash
-
 git merge <branch_name>
 
-Resolve merge conflicts: If there are conflicts during the merge, Git will prompt you to resolve them manually by editing the conflicting files.
+4. Resolve merge conflicts: If there are conflicts during the merge, Git will prompt you to resolve them manually by editing the conflicting files.
 
-Delete a branch:
+5. Delete a branch:
 
 Once a branch is no longer needed, you can delete it using:
 
-bash
+git branch -d <branch_name>
 
-    git branch -d <branch_name>
-
-Collaboration on Git
+## Collaboration on Git
 
 When working on a project with multiple contributors:
 
@@ -219,3 +202,7 @@ Good Practices
 ## Conclusion
 
 By completing this project, you will have a solid understanding of source code management and will be able to use Git and GitHub effectively to manage your code and collaborate on projects.
+
+## Authors
+
+- Lucas Niel - @Lucas Niel
