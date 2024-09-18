@@ -11,7 +11,6 @@
 - [Resources](#resources) / - [Ressources](#ressources)
 - [Learning Objectives](#learning objectives) / - [Objectifs d'apprentissage](#objectifs d'apprentissage)
 - [Requirements](#requirements) / - [Exigences](#exigences)
-- [Files](#files) / - [Fichiers](#fichiers)
 - [Installation](#installation) / - [Installation](#installation)
 - [Basic Git Usage](#basic git usage) / - [Utilisation de base de Git](#utilisation de base de git)
 - [Advanced Git Features](#advanced git features) / - [Fonctionnalités avancées de Git](#fonctionnalités avancées de Git)
