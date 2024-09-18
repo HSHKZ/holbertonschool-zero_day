@@ -1,11 +1,10 @@
 # holbertonschool-zero_day
 
-Welcome to the `holbertonschool-zero_day` repository! This project will introduce you to essential concepts of source code management, Git, and GitHub, while helping you gain proficiency with the command line.
+(ENG) : Welcome to the `holbertonschool-zero_day` repository! This project will introduce you to essential concepts of source code management, Git, and GitHub, while helping you gain proficiency with the command line.
 
-Bienvenue dans le référentiel `holbertonschool-zero_day` ! Ce projet vous présentera les concepts essentiels de la gestion du code source, de Git et de GitHub, tout en vous aidant à maîtriser la ligne de commande.
+(FRA) : Bienvenue dans le référentiel `holbertonschool-zero_day` ! Ce projet vous présentera les concepts essentiels de la gestion du code source, de Git et de GitHub, tout en vous aidant à maîtriser la ligne de commande.
 
-## Table of Contents
-## Table des matières
+## Table of Contents / Table des matières
 
 - [Introduction](#introduction) / - [Introduction](#introduction)
 - [Concepts](#concepts) / - [Concepts](#concepts)
@@ -23,13 +22,11 @@ Bienvenue dans le référentiel `holbertonschool-zero_day` ! Ce projet vous pr�
 ## Introduction
 
 (ENG) : This repository is part of the holbertonschool curriculum and is designed to help you understand the basics of version control with Git and GitHub. By the end of this project, you will be able to explain key concepts, work with Git from the command line, and collaborate on projects efficiently.
-
 (FRA) : Ce référentiel fait partie du programme Holbertonschool et est conçu pour vous aider à comprendre les bases du contrôle de version avec Git et GitHub. À la fin de ce projet, vous serez en mesure d'expliquer les concepts clés, de travailler avec Git depuis la ligne de commande et de collaborer efficacement sur des projets.
 
 ## Concepts
 
 (ENG) : For this project, the following key concepts will be explored:
-
 (FRA) : Pour ce projet, les concepts clés suivants seront explorés:
 
 - `Source Code Management (SCM)`: The process of tracking and managing changes to software code.
@@ -47,64 +44,48 @@ Bienvenue dans le référentiel `holbertonschool-zero_day` ! Ce projet vous pr�
 - `Commits`: Snapshots of the repository's state at a particular time, containing changes made to the code.
 - `Commits`: Instantanés de l'état du référentiel à un moment donné, contenant les modifications apportées au code.
 
-## Resources
-## Ressources
+## Resources / Ressources
 
 (ENG) : Before starting, you should review the following resources:
-
 (FRA) : Avant de commencer, vous devez consulter les ressources suivantes:
 
-- Git : Resources to learn Git - Git : Ressources pour apprendre Git
-- About READMEs - À propos des README
-- How to write a Git commit message - Comment écrire un message de commit Git
+- Git : Resources to learn Git / Git : Ressources pour apprendre Git
+- About READMEs / À propos des README
+- How to write a Git commit message / Comment écrire un message de commit Git
 
-# For advanced users:
-# Pour les utilisateurs avancés:
+# For advanced users / Pour les utilisateurs avancés:
 
-- Learning branching - Apprendre le branchage
-- Effective pull requests - Demandes de tirage efficaces
+- Learning branching / Apprendre le branchage
+- Effective pull requests / Demandes de tirage efficaces
 
-## Learning Objectives
-## Objectifs d'apprentissage
+## Learning Objectives / Objectifs d'apprentissage
 
 (ENG) : By the end of this project, you will be able to:
-
 (FRA) : À la fin de ce projet, vous serez capable de :
 
-- Explain source code management and why it's important.
-- Expliquez la gestion du code source et pourquoi c'est important.
+- Explain source code management and why it's important. / Expliquez la gestion du code source et pourquoi c'est important.
 
-- Define what Git and GitHub are and their differences.
-- Définir ce que sont Git et GitHub et leurs différences.
+- Define what Git and GitHub are and their differences. / Définir ce que sont Git et GitHub et leurs différences.
 
-- Create and manage a repository.
-- Créer et gérer un référentiel.
+- Create and manage a repository. / Créer et gérer un référentiel.
 
-- Write a README.md file for your project.
-- Écrire un fichier README.md pour votre projet.
+- Write a README.md file for your project. / Écrire un fichier README.md pour votre projet.
 
-- Commit changes and write meaningful commit messages.
-- Validez les modifications et rédigez des messages de validation significatifs.
+- Commit changes and write meaningful commit messages. / Validez les modifications et rédigez des messages de validation significatifs.
 
-- Push and pull code to/from GitHub.
-- Poussez et extrayez du code vers/depuis GitHub.
+- Push and pull code to/from GitHub. / Poussez et extrayez du code vers/depuis GitHub.
 
-- Create and work with branches.
-- Créer et travailler avec des branches.
+- Create and work with branches. / Créer et travailler avec des branches.
 
-- Merge branches and resolve conflicts.
-- Fusionner les branches et résoudre les conflits.
+- Merge branches and resolve conflicts. / Fusionner les branches et résoudre les conflits.
 
-- Collaborate on a project with multiple contributors.
-- Collaborer sur un projet avec plusieurs contributeurs.
+- Collaborate on a project with multiple contributors. / Collaborer sur un projet avec plusieurs contributeurs.
 
-- Understand which files should or should not appear in a repository.
-- Comprendre quels fichiers doivent ou ne doivent pas apparaître dans un référentiel.
+- Understand which files should or should not appear in a repository. / Comprendre quels fichiers doivent ou ne doivent pas apparaître dans un référentiel.
 
-## Requirements
-## Exigences
+## Requirements / Exigences
 
-# General
+### General
 
     All commands should be executed via the command line.
     No GitHub web UI should be used, except for actions that can't be performed from the command line.
@@ -112,7 +93,7 @@ Bienvenue dans le référentiel `holbertonschool-zero_day` ! Ce projet vous pr�
         A README.md file at the root of the repository, describing the repository.
         A README.md file in the git/ folder, describing the purpose of this sub-project.
 
-Tools Needed
+- Tools Needed / :
 
     Git: You should have Git installed on your system. Use the following command to install it on Ubuntu:
 
