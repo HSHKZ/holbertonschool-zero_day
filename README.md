@@ -125,8 +125,8 @@
 - (ENG) : Tools Needed: 
 - (FRA) : Outils nécessaires:
 
-1. Git: You should have Git installed on your system. Use the following command to install it on Ubuntu:
-1. Git : Git devrait être installé sur votre système. Utilisez la commande suivante pour l'installer sur Ubuntu:
+1. (ENG) : Git: You should have Git installed on your system. Use the following command to install it on Ubuntu:
+1. (FRA) : Git : Git devrait être installé sur votre système. Utilisez la commande suivante pour l'installer sur Ubuntu:
 
 - sudo apt-get update
 - sudo apt-get upgrade
