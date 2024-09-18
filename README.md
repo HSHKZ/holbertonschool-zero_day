@@ -132,8 +132,8 @@
 - sudo apt-get upgrade
 - sudo apt-get install git
 
-Text Editor: You can use vim, nano, or any other text editor of your choice to write and edit files.
-Éditeur de texte : vous pouvez utiliser vim, nano ou tout autre éditeur de texte de votre choix pour écrire et éditer des fichiers.
+- (ENG) : Text Editor: You can use vim, nano, or any other text editor of your choice to write and edit files.
+- (FRA) : Éditeur de texte : vous pouvez utiliser vim, nano ou tout autre éditeur de texte de votre choix pour écrire et éditer des fichiers.
 
 ## Installation
 
